@@ -25,8 +25,12 @@
 	credits="Wolfy"
 	UNID="&TEA_unidTEALib;"
 	release="1"
-	version="0.5.0.0"
-	apiVersion="19">
+	version="0.5.0.1"
+	apiVersion="53">
+
+<!-- LIBRARIES -->
+
+	<Library unid="&unidRPGLibrary;"/>
 
 <!-- MODULES -->
 
